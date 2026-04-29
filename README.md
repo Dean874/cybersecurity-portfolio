@@ -2,6 +2,9 @@ Dean Alhassan — Cybersecurity Portfolio
 
 Bachelor of Software Engineering & Business Informatics | Graduate Certificate in Cyber Security (in progress) | CompTIA Security+
 📍 Canberra, ACT | 📧 dean.d.alhassan@gmail.com | 
+
+
+
 About Me
 I'm a Canberra-based cybersecurity professional with dual degrees in Software Engineering and Business Informatics, currently completing a Graduate Certificate in Cyber Security at the University of Canberra. I hold a CompTIA Security+ certification and have hands-on experience across software development, cloud infrastructure (AWS), security monitoring, and automation.
 This portfolio documents practical cybersecurity projects I've built to demonstrate real-world threat intelligence, security tooling, and analysis skills.
