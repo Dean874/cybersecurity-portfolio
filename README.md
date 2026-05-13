@@ -10,13 +10,13 @@ This portfolio documents practical cybersecurity projects I've built to demonstr
 
 Projects:
 01 — APT40 Threat Actor Report
-Type: Threat Intelligence 
+Type: Threat Intelligence |
 A structured threat intelligence report on APT40 (Leviathan/GINGHAM TYPHOON), a PRC state-sponsored cyber espionage group actively targeting Australian government and private sector networks. Covers attribution, TTPs mapped to MITRE ATT&CK, real case studies from ASD's ACSC advisories, IOCs, and detection and mitigation recommendations.
 📄 View Report
 
 
 02 — Python Threat Intel Script 
-Type: Security Automation 
+Type: Security Automation |
 A Python script that queries open-source threat intelligence APIs, enriches indicators of compromise, and outputs structured reports for analyst use.
 
 Technical Skills:
