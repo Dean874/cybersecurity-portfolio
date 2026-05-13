@@ -5,17 +5,21 @@ Bachelor of Software Engineering/Bachelor of Business Informatics | Graduate Cer
 
 
 About Me:
+
 I'm Canberra-based with dual degrees in Software Engineering and Business Informatics, currently completing a Graduate Certificate in Cyber Security at the University of Canberra. I hold a CompTIA Security+ certification and have hands-on experience across software development, cloud infrastructure (AWS), security monitoring, and automation.
 This portfolio documents practical cybersecurity projects I've built to demonstrate real-world threat intelligence, security tooling, and analysis skills.
 
 Projects:
+
 01 — APT40 Threat Actor Report
+
 Type: Threat Intelligence |
 A structured threat intelligence report on APT40 (Leviathan/GINGHAM TYPHOON), a PRC state-sponsored cyber espionage group actively targeting Australian government and private sector networks. Covers attribution, TTPs mapped to MITRE ATT&CK, real case studies from ASD's ACSC advisories, IOCs, and detection and mitigation recommendations.
 📄 View Report
 
 
 02 — Python Threat Intel Script 
+
 Type: Security Automation |
 A Python script that queries open-source threat intelligence APIs, enriches indicators of compromise, and outputs structured reports for analyst use.
 
