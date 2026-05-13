@@ -5,7 +5,7 @@ Bachelor of Software Engineering/Bachelor of Business Informatics | Graduate Cer
 
 
 About Me
-I'm a Canberra-based with dual degrees in Software Engineering and Business Informatics, currently completing a Graduate Certificate in Cyber Security at the University of Canberra. I hold a CompTIA Security+ certification and have hands-on experience across software development, cloud infrastructure (AWS), security monitoring, and automation.
+I'm Canberra-based with dual degrees in Software Engineering and Business Informatics, currently completing a Graduate Certificate in Cyber Security at the University of Canberra. I hold a CompTIA Security+ certification and have hands-on experience across software development, cloud infrastructure (AWS), security monitoring, and automation.
 This portfolio documents practical cybersecurity projects I've built to demonstrate real-world threat intelligence, security tooling, and analysis skills.
 
 Projects:
